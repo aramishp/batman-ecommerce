@@ -1,0 +1,16 @@
+.imgs {
+    object-fit: contain;
+    object-position: center;
+    height: 30vh;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.heart-size {
+    font-size: 1.5em;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}

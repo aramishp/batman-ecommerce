@@ -1,0 +1,4 @@
+sql inyection
+profile load photo and address
+orders page
+everything about single products component

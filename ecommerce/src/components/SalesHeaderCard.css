@@ -1,0 +1,16 @@
+.header-card {
+    height: 100%;
+    background-size: 85%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.figcaption {
+    text-align: center;
+}
+
+.card-size {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}

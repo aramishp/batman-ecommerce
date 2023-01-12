@@ -1,0 +1,10 @@
+.brands-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    margin: 25px auto;
+    width: 75%;
+    height: 200px;
+    margin-bottom: 20px;
+    background-color: white;
+}
